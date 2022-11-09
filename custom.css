@@ -1,0 +1,26 @@
+body {
+    display: flex;
+}
+
+.nd-flex {
+    display: flex
+}
+
+.nd-row {
+    flex-direction: row;
+}
+
+.nd-column {
+    flex-direction: column;
+}
+
+.nd-btn {
+    background-color: #889DFD;
+    border-radius: 5px;
+}
+
+#nd-menu {
+    padding: 25px;
+    justify-content: center;
+    align-items: flex-start;
+}
